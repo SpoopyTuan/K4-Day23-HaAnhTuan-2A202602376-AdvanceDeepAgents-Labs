@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "2402.03300",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-04-27",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2403.04642",
+    "url": "https://arxiv.org/abs/2403.04642",
+    "title": "Teaching Large Language Models to Reason with Reinforcement Learning",
+    "date": "2024-03-07",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2501.12948",
+    "url": "https://raw.githubusercontent.com/deepseek-ai/DeepSeek-R1/main/DeepSeek_R1.pdf",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision/",
+    "url": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision/",
+    "title": "Improving mathematical reasoning with process supervision",
+    "date": "2023-05-31",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "https://arxiv.org/html/2510.01925v3",
+    "url": "https://arxiv.org/html/2510.01925v3",
+    "title": "Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "https://aclanthology.org/2026.findings-acl.1611.pdf",
+    "url": "https://aclanthology.org/2026.findings-acl.1611.pdf",
+    "title": "Verifiable Process Reward Models for Structured Reasoning",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2410.08146",
+    "url": "https://huggingface.co/papers/2410.08146",
+    "title": "Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning",
+    "date": "2024-10-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2503.14476",
+    "url": "https://arxiv.org/html/2503.14476",
+    "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+    "date": "2025-05-20",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2502.18548",
+    "url": "https://arxiv.org/abs/2502.18548",
+    "title": "What is the Alignment Objective of GRPO?",
+    "date": "2025-02-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2504.07086",
+    "url": "https://huggingface.co/papers/2504.07086",
+    "title": "A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility",
+    "date": "2025-04-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2508.04848",
+    "url": "https://huggingface.co/papers/2508.04848",
+    "title": "Large Language Models Reasoning Abilities Under Non-Ideal Conditions After RL-Fine-Tuning",
+    "date": "2025-08-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "https://metr.substack.com/p/2025-03-05-deepseek-r1-report",
+    "url": "https://metr.substack.com/p/2025-03-05-deepseek-r1-report",
+    "title": "DeepSeek-R1 Evaluation Results",
+    "date": "2025-03-05",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "https://arxiv.org/html/2605.10325v2",
+    "url": "https://arxiv.org/html/2605.10325v2",
+    "title": "Verifiable Process Rewards for Agentic Reasoning",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2505.15801",
+    "url": "https://huggingface.co/papers/2505.15801",
+    "title": "VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models",
+    "date": "2025-05-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "https://openai.com/index/learning-to-reason-with-llms/",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "title": "Learning to reason with LLMs",
+    "date": "2024-09-12",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2509.03403",
+    "url": "https://huggingface.co/papers/2509.03403",
+    "title": "Beyond Correctness: Harmonizing Process and Outcome Rewards through RL Training",
+    "date": "2025-09-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2502.00271",
+    "url": "https://arxiv.org/abs/2502.00271",
+    "title": "Scaling Flaws of Verifier-Guided Search in Mathematical Reasoning",
+    "date": "2025-02-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2503.20783",
+    "url": "https://arxiv.org/abs/2503.20783",
+    "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+    "date": "2025-10-06",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "2508.10173",
+    "url": "https://arxiv.org/pdf/2508.10173",
+    "title": "Benchmark-Driven Selection of AI: Evidence from DeepSeek-R1",
+    "date": "2025-08-12",
+    "source": "web"
+  }
+]

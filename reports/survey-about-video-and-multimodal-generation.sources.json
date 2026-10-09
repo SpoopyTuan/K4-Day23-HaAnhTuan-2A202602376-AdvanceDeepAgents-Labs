@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "2104.10157",
+    "url": "https://arxiv.org/abs/2104.10157",
+    "title": "VideoGPT: Video Generation using VQ-VAE and Transformers",
+    "date": "2021-04-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2204.03458",
+    "url": "https://arxiv.org/abs/2204.03458",
+    "title": "Video Diffusion Models",
+    "date": "2022-04-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2210.02399",
+    "url": "https://arxiv.org/abs/2210.02399",
+    "title": "Phenaki: Variable length video generation from open domain textual descriptions",
+    "date": "2022-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2210.02303",
+    "url": "https://arxiv.org/abs/2210.02303",
+    "title": "Imagen Video: High Definition Video Generation with Diffusion Models",
+    "date": "2022-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2212.05199",
+    "url": "https://arxiv.org/abs/2212.05199",
+    "title": "MAGVIT: Masked Generative Video Transformer",
+    "date": "2022-12-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2412.03603",
+    "url": "https://arxiv.org/abs/2412.03603",
+    "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+    "date": "2024-12-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2410.13720",
+    "url": "https://arxiv.org/abs/2410.13720",
+    "title": "Movie Gen: A Cast of Media Foundation Models",
+    "date": "2025-02-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "https://arxiv.org/html/2507.16869v3",
+    "url": "https://arxiv.org/html/2507.16869v3",
+    "title": "Controllable Video Generation: A Survey",
+    "date": "2026-01-19",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2407.05551",
+    "url": "https://arxiv.org/abs/2407.05551",
+    "title": "Read, Watch and Scream! Sound Generation from Text and Video",
+    "date": "2024-07-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2506.08003",
+    "url": "https://huggingface.co/papers/2506.08003",
+    "title": "Audio-Sync Video Generation with Multi-Stream Temporal Control",
+    "date": "2025-06-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2411.13503",
+    "url": "https://huggingface.co/papers/2411.13503",
+    "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+    "date": "2024-11-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2503.21755",
+    "url": "https://arxiv.org/abs/2503.21755",
+    "title": "VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness",
+    "date": "2025-03-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2510.08398",
+    "url": "https://arxiv.org/abs/2510.08398",
+    "title": "VideoVerse: Does Your T2V Generator Have World Model Capability to Synthesize Videos?",
+    "date": "2025-10-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2508.00144",
+    "url": "https://arxiv.org/abs/2508.00144",
+    "title": "World Consistency Score: A Unified Metric for Video Generation Quality",
+    "date": "2025-07-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2512.21094",
+    "url": "https://arxiv.org/abs/2512.21094",
+    "title": "T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation",
+    "date": "2025-12-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "https://arxiv.org/html/2504.16081v3",
+    "url": "https://arxiv.org/html/2504.16081v3",
+    "title": "Survey of Video Diffusion Models: Foundations, Implementations, and Applications",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2511.18870",
+    "url": "https://arxiv.org/abs/2511.18870",
+    "title": "HunyuanVideo 1.5 Technical Report",
+    "date": "2025-11-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2412.15322",
+    "url": "https://arxiv.org/abs/2412.15322",
+    "title": "MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis",
+    "date": "2024-12-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "https://proceedings.neurips.cc/paper_files/paper/2025/file/133239b0506b84c802a12b0e5a764a17-Paper-Conference.pdf",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/133239b0506b84c802a12b0e5a764a17-Paper-Conference.pdf",
+    "title": "Audio-Sync Video Generation with Multi-Stream Temporal Control",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "https://arxiv.org/abs/2512.07209",
+    "url": "https://arxiv.org/html/2512.07209",
+    "title": "Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "https://arxiv.org/abs/2512.13677",
+    "url": "https://arxiv.org/html/2512.13677v2",
+    "title": "JoVA: Unified Multimodal Learning for Joint Video-Audio Generation and Editing",
+    "date": "N/A",
+    "source": "web"
+  }
+]
